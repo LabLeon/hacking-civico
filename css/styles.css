@@ -1,43 +1,5 @@
 /** FONTS **/
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
-@font-face {
-    font-family: 'roboto_monobold';
-    src: url('../fonts/robotomono-bold-webfont.eot');
-    src: url('../fonts/robotomono-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/robotomono-bold-webfont.woff2') format('woff2'),
-         url('../fonts/robotomono-bold-webfont.woff') format('woff'),
-         url('../fonts/robotomono-bold-webfont.ttf') format('truetype'),
-         url('../fonts/robotomono-bold-webfont.svg#roboto_monobold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'cabinregular';
-    src: url('../fonts/cabin-regular-webfont.eot');
-    src: url('../fonts/cabin-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/cabin-regular-webfont.woff2') format('woff2'),
-         url('../fonts/cabin-regular-webfont.woff') format('woff'),
-         url('../fonts/cabin-regular-webfont.ttf') format('truetype'),
-         url('../fonts/cabin-regular-webfont.svg#cabinregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'roboto_monoregular';
-    src: url('../fonts/robotomono-regular-webfont.eot');
-    src: url('../fonts/robotomono-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/robotomono-regular-webfont.woff2') format('woff2'),
-         url('../fonts/robotomono-regular-webfont.woff') format('woff'),
-         url('../fonts/robotomono-regular-webfont.ttf') format('truetype'),
-         url('../fonts/robotomono-regular-webfont.svg#roboto_monoregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
 
 /** GLOBAL **/
 body {
@@ -56,7 +18,8 @@ body {
     padding: 10px 5px 10px 5px;
     color: #F4F3F4;
     font-size: 24px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
 }
 
 .link:hover {
@@ -74,11 +37,11 @@ body {
 }
 
 .footer ul li a{
-    color: #222423 !important;  
+    color: #222423 !important;
 }
 
 .footer ul li a:hover{
-    color: #69E6B6 !important;  
+    color: #69E6B6 !important;
     text-decoration: none !important;
     outline: 0 !important;
 }
@@ -105,7 +68,8 @@ body {
     top: 20px;
     position: relative;
     left: 10px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     line-height: 19px;
     text-transform: uppercase;
 }
@@ -114,7 +78,8 @@ body {
     margin-top: 6px;
     color: #F4F3F4;
     background-color: transparent;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     font-size: 16px;
     line-height: 19px;
     margin-left: 10px;
@@ -129,7 +94,8 @@ body {
 .navbar-inverse .navbar-nav>.active>a {
     color: #69E6B6;
     background-color: transparent;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     font-size: 16px;
     line-height: 19px;
 }
@@ -144,7 +110,8 @@ body {
     margin-top: 6px;
     color: #F4F3F4;
     background-color: transparent;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     font-size: 16px;
     line-height: 19px;
 }
@@ -233,7 +200,8 @@ body {
     font-size: 32px;
     text-align: center;
     margin: 30px auto;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     width: 50%;
     color: #F4F3F4;
     padding-bottom: 5px;
@@ -254,7 +222,8 @@ body {
 .mover-rigths {
     padding: 0px !important;
     width: 80% !important;
-    font-family: 'roboto_monoregular' !important;
+    font-family: 'Roboto Mono' !important;
+    font-weight: 400;
 }
 
 .container-tech img {
@@ -270,7 +239,7 @@ body {
 }
 
 .container-textos-acerca {
-    margin-bottom: 50px;    
+    margin-bottom: 50px;
 }
 
 .img-microsoft {
@@ -343,7 +312,8 @@ body {
 }
 
 .container-participa-interno p{
-    font-family: 'cabinregular';
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: justify;
@@ -352,7 +322,7 @@ body {
 
 .logo-city {
     width: 100%;
-    
+
 }
 
 .container-city {
@@ -378,7 +348,8 @@ body {
     color: #656768;
     font-size: 18px;
     line-height: 21px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
 }
 .move-top {
     position: relative;
@@ -400,23 +371,26 @@ body {
 .container-temario-interno h2 {
     font-size: 38px;
     color: #F4F3F4;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     line-height: 38px;
 }
 
 .container-temario-interno h3 {
     font-size: 18px;
     color: #222423;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     line-height: 21px;
 }
 
 .container-temario-interno h2 span {
-    font-size: 25px !important; 
+    font-size: 25px !important;
 }
 
 .container-temario-interno p{
-    font-family: 'cabinregular';
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: justify;
@@ -437,7 +411,8 @@ body {
 }
 
 #temario-secundario p{
-    font-family: 'cabinregular';
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-align: left;
@@ -463,7 +438,8 @@ strong a:hover {
 .border {
     border-top: 15px solid;
     padding: 30px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     line-height: 14px;
     color: #767777;
     font-size: 12px;
@@ -511,7 +487,7 @@ strong a:hover {
 }
 
 .border:hover {
-    color: #F4F3F4; 
+    color: #F4F3F4;
 }
 .border-yellow:hover {
     border-color: #ECDD44;
@@ -544,7 +520,7 @@ strong a:hover {
     width: 100%;
     background: #ECDD44;
     padding-top: 15px;
-    padding-bottom: 15px; 
+    padding-bottom: 15px;
 }
 
 .logo-mapa {
@@ -568,7 +544,8 @@ strong a:hover {
 }
 
 .proximamente {
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     position: relative;
     top: 313px;
     z-index: 1;
@@ -609,7 +586,8 @@ strong a:hover {
 
 .footer {
     padding: 30px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     font-size: 18px;
     color: #222423;
 }
@@ -717,7 +695,8 @@ strong a:hover {
 }
 
 .container-retos-interno h3 {
-    font-family: 'cabinregular';
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     color: #656768;
@@ -759,7 +738,8 @@ strong a:hover {
 }
 
 .container-retos-interno h2{
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     font-size: 32px;
     line-height: 22px;
     color: #656768;
@@ -791,13 +771,15 @@ strong a:hover {
 .accordion-toggle {
     font-size: 14px;
     line-height: 22px;
-    font-family: 'roboto_monobold';
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
     color: #222423 !important;
 }
 
 .panel-body {
     font-size: 14px;
-    font-family: 'cabinregular';
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
     color: #222423 !important;
 }
 
@@ -997,7 +979,7 @@ strong a:hover {
     }
 }
 
-@media (max-width: 600px) { 
+@media (max-width: 600px) {
     .container-home .img-backlines {
         display: none;
     }
@@ -1027,7 +1009,7 @@ strong a:hover {
         margin: 20px;
         margin-left: 0px;
     }
-    .img-microsoft { 
+    .img-microsoft {
         width: 150px;
         margin: 0 auto;
         text-align: center;
@@ -1068,7 +1050,7 @@ strong a:hover {
         font-size: 16px;
     }
     .border {
-        color: #F4F3F4; 
+        color: #F4F3F4;
     }
     .border-yellow {
         border-color: #ECDD44;
@@ -1084,7 +1066,7 @@ strong a:hover {
     }
     .logo-mapa {
         margin: 0px auto !important;
-    }   
+    }
     .proximamente {
         font-size: 26px;
         left: 0px;
@@ -1117,14 +1099,14 @@ strong a:hover {
     }
 }
 
-@media (max-width: 500px) {  
+@media (max-width: 500px) {
     .container-generacion img {
         width: 100%;
         padding: 15px;
     }
     .container-participa-interno h3 {
         text-align: center;
-        margin: 0px;    
+        margin: 0px;
     }
     .container-participa-interno img {
         margin: 0 auto;
@@ -1192,12 +1174,12 @@ strong a:hover {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 320px) 
+@media only screen
+  and (min-device-width: 320px)
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
-  and (-webkit-device-pixel-ratio: 2) 
-  and (-webkit-device-pixel-ratio: 3) 
+  and (-webkit-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: landscape) {
       .container-participa-interno img {
             width: 120px;
@@ -1213,12 +1195,12 @@ strong a:hover {
 }
 
 /* Landscape */
-@media only screen 
-  and (min-device-width: 569px) 
+@media only screen
+  and (min-device-width: 569px)
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2)
-  and (-webkit-device-pixel-ratio: 2) 
-  and (-webkit-device-pixel-ratio: 3) 
+  and (-webkit-device-pixel-ratio: 2)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: landscape) {
       .move-footer-center {
           width: 100%;

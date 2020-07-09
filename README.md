@@ -6,14 +6,16 @@ El curso tiene como objetivo habilitar las capacidades de la ciudadanía y los 
 
 Está estructurado en módulos, llamados “rutas”, cada una de estas rutas está diseñada para abarcar temas específicos de acuerdo al nivel de conocimiento requerido.
 
-- **Ruta Cívica**: Presenta las bases y conceptos básicos para todos los participantes incluyendo la dinámica y plataformas en las que se va a trabajar.
+### Ruta Cívica
+Presenta las bases y conceptos básicos para todos los participantes incluyendo la dinámica y plataformas en las que se va a trabajar.
 
 | Tema                                                    | Sesiones | Descripción                                                                                |
 |---------------------------------------------------------|----------|--------------------------------------------------------------------------------------------|
 | 1.  Introducción: Hacking Cívico + Open Data 101       | 1        | Introducción a qué son los datos abiertos, la tecnología cívica y otros conceptos básicos. |
 | 2.  GitHub: Construyendo ciudadanía un commit a la vez | 2        | Cómo colaborar en proyectos abiertos para descubrir, compartir y construir una solución.   |
 
-- **Ruta Coder**: Se enseñan las herramientas y conocimientos técnicos necesarios para el manejo, análisis y presentación de los datos. Aquí se hace una división del público objetivo, los ciudadanos aprenden a usar programación con un enfoque hacia la manipulación de datos.
+### Ruta Coder
+Se enseñan las herramientas y conocimientos técnicos necesarios para el manejo, análisis y presentación de los datos. Aquí se hace una división del público objetivo, los ciudadanos aprenden a usar programación con un enfoque hacia la manipulación de datos.
 
 | Tema                                             | Sesiones | Descripción                                                                                                                |
 |--------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
@@ -21,7 +23,8 @@ Está estructurado en módulos, llamados “rutas”, cada una de estas rutas e
 | 2. Exploración: Manipulación y limpieza de datos | 2        | Técnicas esenciales para explorar, limpiar y analizar datos usando Python.                                                 |
 | 3. Visualización: Resumir y comprender los datos | 2        | Fundamentos de la visualización de datos aplicando conceptos de narrativa y diseño para contar una historia usando Python. |
 
-- **Ruta Pública**: Diseñada especialemente para servidores públicos, en donde se usan herramientas más familiares como hojas de cálculo para poder preparar los datos para su apertura.
+### Ruta Pública
+Diseñada especialemente para servidores públicos, en donde se usan herramientas más familiares como hojas de cálculo para poder preparar los datos para su apertura.
 
 | Tema                                             | Sesiones | Descripción                                                                                                                 |
 |--------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +33,8 @@ Está estructurado en módulos, llamados “rutas”, cada una de estas rutas e
 | 3. Visualización: Resumir y comprender los datos | 2        | Fundamentos de la visualización de datos aplicando conceptos de narrativa y diseño para contar una historia usando Tableau. |
 | 4. Publicación: Plataformas de datos abiertos    | 1        | Cómo y dónde publicar  datos con los formatos, estándares, licencias adecuadas para su apertura.                            |
 
-- **Ruta Hacker**: Se enseñan conocimientos más especializados de extracción de datos, análisis y visualizaciones interactivas en la web. La ruta hacker se imparte de igual forma a funcionarios y funcionarias públicas y público en general.
+### Ruta Hacker
+Se enseñan conocimientos más especializados de extracción de datos, análisis y visualizaciones interactivas en la web. La ruta hacker se imparte de igual forma a funcionarios y funcionarias públicas y público en general.
 
 | Tema                                             | Sesiones | Descripción                                                                                                 |
 |--------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------|

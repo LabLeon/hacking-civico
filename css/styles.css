@@ -103,7 +103,6 @@ body {
 .navbar-inverse .navbar-nav>.active>a:hover {
     color: #69E6B6;
     background-color: transparent;
-    cursor: default;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -123,7 +122,7 @@ body {
 /** CONTAINER ESTUDIANTES **/
 .container-estudiantes {
     height: 597px;
-    background-image: url(../img/header.png) !important;
+    background-image: url(img/header.png) !important;
     background-size: cover;
     width: 100%;
     background-position: center;
@@ -278,7 +277,7 @@ body {
 .container-generacion img {
     text-align: center;
     margin: 0 auto;
-    padding: 50px;
+    padding: 170px;
     width: 80%;
 }
 
@@ -288,6 +287,12 @@ body {
 
 .logo-estudiantes {
     width: 295px;
+    background: #69E6B6;
+    padding: 10px 30px 10px 30px;
+}
+
+.logo-lab {
+    width: 190px;
     background: #69E6B6;
     padding: 10px 30px 10px 30px;
 }
@@ -1102,7 +1107,7 @@ strong a:hover {
 @media (max-width: 500px) {
     .container-generacion img {
         width: 100%;
-        padding: 15px;
+        padding: 35px;
     }
     .container-participa-interno h3 {
         text-align: center;

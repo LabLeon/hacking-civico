@@ -23,13 +23,13 @@ body {
 }
 
 .link:hover {
-    color: #69E6B6;
+    color: #57D9D9;
     background: #222423;
     text-decoration: none;
 }
 
 .change-color {
-    background: #69E6B6;
+    background: #57D9D9;
 }
 
 .move-izqu {
@@ -41,7 +41,7 @@ body {
 }
 
 .footer ul li a:hover{
-    color: #69E6B6 !important;
+    color: #57D9D9 !important;
     text-decoration: none !important;
     outline: 0 !important;
 }
@@ -86,13 +86,13 @@ body {
     margin-right: 15px;
 }
 .brand-span a:hover{
-    color: #ECDD44;
+    color: #F8C35C;
     text-decoration: none !important;
     outline: 0 !important;
 }
 
 .navbar-inverse .navbar-nav>.active>a {
-    color: #69E6B6;
+    color: #57D9D9;
     background-color: transparent;
     font-family: 'Roboto Mono', monospace;
     font-weight: 700;
@@ -101,7 +101,7 @@ body {
 }
 
 .navbar-inverse .navbar-nav>.active>a:hover {
-    color: #69E6B6;
+    color: #57D9D9;
     background-color: transparent;
 }
 
@@ -116,7 +116,7 @@ body {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover {
-    color: #ECDD44;
+    color: #F8C35C;
 }
 
 /** CONTAINER ESTUDIANTES **/
@@ -204,7 +204,7 @@ body {
     top: -10px;
 }
 .container-home h2 {
-    background: #69E6B6;
+    background: #57D9D9;
     font-size: 32px;
     text-align: center;
     margin: 30px auto;
@@ -296,13 +296,13 @@ body {
 
 .logo-estudiantes {
     width: 295px;
-    background: #69E6B6;
+    background: #57D9D9;
     padding: 10px 30px 10px 30px;
 }
 
 .logo-lab {
     width: 190px;
-    background: #69E6B6;
+    background: #57D9D9;
     padding: 10px 30px 10px 30px;
 }
 
@@ -335,12 +335,12 @@ body {
 }
 
 .logo-city {
-    width: 80%;
+    width: 100%;
 
 }
 
 .container-city {
-    border-bottom: 5px solid #69E6B6;
+    border-bottom: 5px solid #57D9D9;
 }
 
 .container-city-retos {
@@ -440,7 +440,7 @@ strong a {
 }
 
 strong a:hover {
-    color: #69E6B6 !important;
+    color: #57D9D9 !important;
     text-decoration: none !important;
 }
 
@@ -491,36 +491,36 @@ strong a:hover {
 }
 
 .border:hover .border-yellow {
-    border-color: #ECDD44;
+    border-color: #F8C35C;
 }
 .border:hover .border-red {
     border-color: #F4476D;
 }
 .border:hover .border-green {
-    border-color: #6EE5B7;
+    border-color: #57D9D9;
 }
 
 .border:hover {
     color: #F4F3F4;
 }
 .border-yellow:hover {
-    border-color: #ECDD44;
+    border-color: #F8C35C;
 }
 .border-red:hover {
     border-color: #F4476D;
 }
 .border-green:hover {
-    border-color: #6EE5B7;
+    border-color: #57D9D9;
 }
 
 .container-temas p .color-yellow:hover {
-    color: #ECDD44;
+    color: #F8C35C;
 }
 .container-temas p .color-red:hover {
     color: #F4476D;
 }
 .container-temas p .color-green:hover {
-    color: #6EE5B7;
+    color: #57D9D9;
 }
 
 #giras {
@@ -532,7 +532,7 @@ strong a:hover {
 
 #clubes {
     width: 100%;
-    background: #ECDD44;
+    background: #F8C35C;
     padding-top: 15px;
     padding-bottom: 15px;
 }
@@ -564,7 +564,7 @@ strong a:hover {
     top: 313px;
     z-index: 1;
     left: 70px;
-    background: #69E6B6;
+    background: #57D9D9;
     padding: 10px 25px 10px 25px;
     font-size: 36px;
     color: #656768;
@@ -595,7 +595,7 @@ strong a:hover {
 }
 
 .active-dos {
-    color: #ECDD44 !important;
+    color: #F8C35C !important;
 }
 
 .footer {
@@ -631,6 +631,12 @@ strong a:hover {
 
 .logo-micro {
     width: 110px;
+}
+.logo-here {
+    width: 60px;
+}
+.logo-leon {
+    width: 80px;
 }
 
 .slack {
@@ -728,7 +734,7 @@ strong a:hover {
 .hr-yellow {
     height: 22px;
     width: 100%;
-    background: #ECDD44;
+    background: #F8C35C;
     margin-top: 0px !important;
 }
 .hr-red {
@@ -740,7 +746,7 @@ strong a:hover {
 .hr-green {
     height: 22px;
     width: 100%;
-    background: #6EE5B7;
+    background: #57D9D9;
     margin-top: 0px !important;
 }
 .img-civica {
@@ -748,7 +754,7 @@ strong a:hover {
 }
 
 .active-a {
-    color: #ECDD44 !important;
+    color: #F8C35C !important;
 }
 
 .container-retos-interno h2{
@@ -799,7 +805,7 @@ strong a:hover {
 
 .reto-green .accordion-toggle {
     padding: 5px;
-    background: #6EE5B7;
+    background: #57D9D9;
     padding-right: 30px;
 }
 
@@ -811,7 +817,7 @@ strong a:hover {
 
 .reto-yellow .accordion-toggle {
     padding: 5px;
-    background: #ECDD44;
+    background: #F8C35C;
     padding-right: 30px;
 }
 
@@ -848,7 +854,7 @@ strong a:hover {
 
 .reto-green .panel-heading [data-toggle="collapse"].collapsed:after,
 .reto-green .panel-heading [data-toggle="collapse"]:after {
-    color: #6EE5B7;
+    color: #57D9D9;
 }
 
 .reto-red .panel-heading [data-toggle="collapse"].collapsed:after,
@@ -858,7 +864,7 @@ strong a:hover {
 
 .reto-yellow .panel-heading [data-toggle="collapse"].collapsed:after,
 .reto-yellow .panel-heading [data-toggle="collapse"]:after {
-    color: #ECDD44;
+    color: #F8C35C;
 }
 
 @media (max-width: 1024px) {
@@ -1067,13 +1073,13 @@ strong a:hover {
         color: #F4F3F4;
     }
     .border-yellow {
-        border-color: #ECDD44;
+        border-color: #F8C35C;
     }
     .border-red {
         border-color: #F4476D;
     }
     .border-green {
-        border-color: #6EE5B7;
+        border-color: #57D9D9;
     }
     .logo-gira-hacking {
         float: inherit !important;
